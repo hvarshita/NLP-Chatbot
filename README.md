@@ -1,5 +1,3 @@
-# NLP Chatbot Using Seq2Seq Model
-
 # NLP Chatbot using Seq2Seq Model
 
 ## Project Description
